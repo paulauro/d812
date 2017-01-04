@@ -1,0 +1,18 @@
+favicon:
+  mimetype: image/vnd.microsoft.icon
+  path: ''
+  url: 'http://d81/themes/bootstrap/favicon.ico'
+  use_default: 1
+features:
+  comment_user_picture: 0
+  comment_user_verification: 0
+  favicon: 0
+  node_user_picture: 0
+logo:
+  path: ''
+  url: ''
+  use_default: 1
+schemas:
+  bootstrap: 8000
+  bootstrapsub: 8000
+table: ''
